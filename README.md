@@ -8,6 +8,7 @@
 * [Full Walkthrough Video](#Full-Walkthrough-Video)
 * [Installation](#Installation)
 * [Usage](#Usage)
+* [Credits](#Credits)
 
 ## Overview
 
@@ -30,11 +31,9 @@ https://github.com/cip170/Professional-README-Generator/assets/134829009/2b729f2
 
 After cloning starter code to local device, run this code:
 
-<pre>
-<code>
+\`\`\`
 npm install
-</code>
-</pre>
+\`\`\`
 
 ## Usage
 
@@ -42,11 +41,10 @@ To run the program:
 1. Right-click on the index.js file and open your personal Integrated Terminal
 2. Run:
    
-<pre>
-<code>
+\`\`\`
 node.js
 </code>
-</pre>
+\`\`\`
 
 3. Answer the prompts that follow
 4. A README.md will be generated and stored in the output folder
