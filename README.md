@@ -50,8 +50,8 @@ node.js
 
 ## Credits 
 
-1. [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4)
-2. [Clideo](https://clideo.com/project/172271569/result#)
-3. [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
+* [Inquirer Package](https://www.npmjs.com/package/inquirer/v/8.2.4)
+* [Clideo](https://clideo.com/project/172271569/result#)
+* [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
 
